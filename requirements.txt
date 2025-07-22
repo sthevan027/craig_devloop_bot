@@ -1,0 +1,9 @@
+discord.py
+pydub
+ffmpeg-python
+requests
+python-dotenv
+notion-client
+transformers
+torch
+sentencepiece

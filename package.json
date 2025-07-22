@@ -1,0 +1,15 @@
+{
+  "name": "craig_devloop_bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord que: - Entra em chamadas de voz (!gravar) - Grava e salva o áudio localmente - Transcreve com AssemblyAI - Registra resumo e link no Notion",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "craig_devloop_bot": "file:"
+  }
+}
